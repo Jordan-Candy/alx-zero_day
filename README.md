@@ -1,1 +1,1 @@
-Read me for first git project
+First project readme
